@@ -23,9 +23,12 @@
               "src/assets"
             ],
             "styles": [
+              "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css",
               "src/styles.css"
             ],
-            "scripts": [],
+            "scripts": [
+              "https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"
+            ],
             "es5BrowserSupport": true
           },
           "configurations": {
