@@ -1,2 +1,0 @@
-# mysite
-CV &amp; Information
